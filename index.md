@@ -19,3 +19,18 @@
          - container fluid
          - flex box
          - wrote some codes to see how it works
+
+
+         
+### Saturday July 1st 2017
+- watched videos on java script
+  - practiced alert, propmt functions and saw how it works
+
+  ### Sunday July 12nd 2017
+- watched videos on bootstrap
+  - practiced buttons and how to style and manipulate them
+  - practiced jumbotron and how it looks like
+  - practiced bootstrap forms
+- used bootstrap from my portfolio site form
+
+
