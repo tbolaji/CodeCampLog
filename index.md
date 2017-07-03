@@ -34,3 +34,39 @@
 - used bootstrap for my portfolio site form
 
 
+### Monday July 3rd 2017
+- formevent listner
+- date inputs
+        <label for="bday">Birthday:</label>
+        <input id="bday" type="date" required>
+
+- http://syncfiddle.net----to make an interactive class
+
+
+- learnt Jquery
+  - have an idea what asynchronous programing is (e.g settimer)
+ <script.
+ var message = 'Hello from the other siiiiiiiide!!!'
+    var errorMessage = 'Sorry no Airtime :(' 
+    
+    console.log(message);
+    
+    setTimeout(function() {
+    	console.log(errorMessage);
+    }, 3000)
+    
+    console.log('Whennnn?');
+    
+    
+  </script>
+
+
+- lerant how to add jQuery library to my html file
+          -  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+- read about jQuery Documentatio
+       - jQuery selector
+       - form handling
+
+
