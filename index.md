@@ -23,14 +23,14 @@
 
          
 ### Saturday July 1st 2017
-- watched videos on java script
+- watched videos on javascript
   - practiced alert, propmt functions and saw how it works
 
-  ### Sunday July 12nd 2017
+### Sunday July 2nd 2017
 - watched videos on bootstrap
   - practiced buttons and how to style and manipulate them
   - practiced jumbotron and how it looks like
   - practiced bootstrap forms
-- used bootstrap from my portfolio site form
+- used bootstrap for my portfolio site form
 
 
