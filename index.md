@@ -166,3 +166,19 @@ Initializing Variables with the Assignment Operatorcompleted
 
 - Write Reusable JavaScript with Functions
 
+
+### Thursday July 6th 2017
+
+- learnt fuctions 
+    - learnt about console.log, return and the diffrence.
+    - wrote some funtions on array, replace string character, capitalizing a first character of a       string, factorial.
+    - learnt about regular expression 
+- learnt scope(global and local)
+    
+
+### Friday July 7th 2017 
+hihger order function
+  - setInterval(func, num);
+  - clearInterval(num); //to stop
+- wrote functions snippets
+- wrote snippets on freecode camp and repl.it   
