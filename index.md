@@ -181,4 +181,19 @@ hihger order function
   - setInterval(func, num);
   - clearInterval(num); //to stop
 - wrote functions snippets
-- wrote snippets on freecode camp and repl.it   
+- wrote snippets on freecode camp and repl.it 
+
+
+### Saturday July 8th 2017
+- wrote codes on repl.it
+    - functions with conditional statements
+
+### Sunday July 9th 2017
+- continued with freecode camp javascript basics on arrays
+
+
+### Monday July 10th 2017
+- wrote codes on higher order functions
+- learnt that i should get my logic first before writing my codes.
+- used the .slice function 
+- was able to see how to chage number to string and to array
