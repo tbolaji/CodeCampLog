@@ -197,3 +197,61 @@ hihger order function
 - learnt that i should get my logic first before writing my codes.
 - used the .slice function 
 - was able to see how to chage number to string and to array
+
+
+
+### Tuesday July 11th 2017
+
+
+
+### wednesday July 12th 2017
+- started a todo app project with colleagues 
+- designing of the front end
+- started with html and css 
+
+
+
+
+### Thursday July 13th 2017
+- wrote functions to make the todo app functional
+- practiced my repl assignment on functions
+
+
+
+### Friday July 14th 2017
+- continued with the todo app functions
+- practiced my repl assignment on functions 
+
+
+
+### Saturday July 15th 2017
+
+
+
+
+### Sunday July 16th 2017
+
+
+
+
+### Monday July 17th 2017
+- watched videos on bootstrap grid and practiced it
+- wrote functions on repl
+
+
+### Tuesday July 18th 2017
+18/7
+- WHAT API IS
+- learned  what JSON IS 
+- wrote a function send data from app to server
+	- wrote api on server that will recieve data, store it and send back
+
+
+
+
+
+### Wednesday July 19th 2017
+
+
+
+
