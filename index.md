@@ -251,6 +251,21 @@ hihger order function
 
 
 ### Wednesday July 19th 2017
+- 
+
+
+### thursday July 20th 2017
+- learnt how ionic works and did some practice
+
+
+### Friday July 21st 2017
+
+
+### Saturday July 22nd 2017
+
+
+### sunday July 23th 2017
+- learnt more on bootstrap grid and practiced
 
 
 
